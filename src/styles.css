@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.water-comp {
+  padding: 10px;
+  background-color: #1e1e1e;
+  border-radius: 10px;
+}
+
+.water-comp input {
+  width: 200px;
+}
